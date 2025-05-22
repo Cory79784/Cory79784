@@ -13,5 +13,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cory79784&layout=compact)](https://github.com/Cory79784/github-readme-stats)
+<!-- Most Used Languages Card -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cory79784&layout=compact&theme=tokyonight)
+
 
