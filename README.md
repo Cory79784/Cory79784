@@ -11,7 +11,7 @@
 
 📫 Reach me via: [Email](mailto:salahdhy@gmail.com)
 
-[![Yaokang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cory79784&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cory79784&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cory79784&layout=compact)](https://github.com/Cory79784/github-readme-stats)
 
